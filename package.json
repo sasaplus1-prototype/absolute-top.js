@@ -1,0 +1,16 @@
+{
+  "name": "absolute-top",
+  "version": "0.1.0",
+  "author": "sasa+1 <sasaplus1@gmail.com>",
+  "description": "get absolute top of element",
+  "main": "./index.js",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sasaplus1-prototype/absolute-top.js.git"
+  },
+  "dependencies": {
+    "scroll-top": "github:sasaplus1-prototype/scroll-top.js"
+  }
+}
