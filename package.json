@@ -9,5 +9,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/sasaplus1-prototype/absolute-top.js.git"
+  },
+  "dependencies": {
+    "scroll-top": "github:sasaplus1-prototype/scroll-top.js"
   }
 }
