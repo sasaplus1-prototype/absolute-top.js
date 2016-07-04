@@ -1,8 +1,3 @@
-/*!
- * @license absolute-top.js Copyright(c) 2016 sasa+1
- * https://github.com/sasaplus1-prototype/absolute-top.js
- * Released under the MIT license.
- */
 'use strict';
 
 var scrollTop = require('scroll-top');
